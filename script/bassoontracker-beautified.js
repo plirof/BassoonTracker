@@ -5451,6 +5451,11 @@ var BassoonTracker = function() {
                     da.load("demomods/demomusic.mod")
                 }
             }, {
+                label: "cultbeat-mr.vain@.mod",
+                onClick: function() {
+                    da.load("demomods/jjj/cultbeat-mr.vain@.mod")
+                }
+            }, {            	
                 label: "2unlimitedmagic@.MOD",
                 onClick: function() {
                     da.load("demomods/jjj/2unlimitedmagic@.MOD")
