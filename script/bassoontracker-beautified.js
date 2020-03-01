@@ -5446,14 +5446,14 @@ var BassoonTracker = function() {
             font: fontFT
         }), a.addChild(b);
         for (var c = [], d = [{
+                label: "cultbeat-mr.vain@.mod",
+                onClick: function() {
+                    da.load("demomods/jjj/cultbeat-mr.vain@.mod")        	
+                }
+            }, {
                 label: "Demomusic",
                 onClick: function() {
                     da.load("demomods/demomusic.mod")
-                }
-            }, {
-                label: "cultbeat-mr.vain@.mod",
-                onClick: function() {
-                    da.load("demomods/jjj/cultbeat-mr.vain@.mod")
                 }
             }, {            	
                 label: "2unlimitedmagic@.MOD",
