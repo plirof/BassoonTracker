@@ -1,16 +1,5 @@
 {
   "modules":[
-
-    {"title":"cultbeat-mr.vain@.mod","url":"demomods/jjj/cultbeat-mr.vain@.mod","icon":"mod","info":"979k"},
-    {"title":"2unlimitedmagic@","url":"demomods/jjj/2unlimitedmagic@.MOD","icon":"mod","info":"979k"},
-    {"title":"PumpUpTheJam_@@","url":"demomods/jjj/PumpUpTheJam_@@.mod","icon":"mod","info":"979k"},
-    {"title":"old-skool-rave-2__v02renamed_samples","url":"demomods/jjj/old-skool-rave-2__v02renamed_samples.mod","icon":"mod","info":"979k"},
-    {"title":"prodigy2_nice","url":"demomods/jjj/prodigy2_nice.mod","icon":"mod","info":"979k"},
-    {"title":"Probe-Excellate__niceTechnoSamples@","url":"demomods/jjj/Probe-Excellate__niceTechnoSamples@.mod","icon":"mod","info":"979k"},
-    {"title":"westbam","url":"demomods/jjj/westbam@.MOD","icon":"mod","info":"979k"},
-    {"title":"2unlimited_med","url":"demomods/jjj/2unlimited_med.MOD","icon":"mod","info":"979k"},
-    {"title":"2unlimited_no_limit_2_othersmps_mix","url":"demomods/2unlimited_no_limit_2_othersmps_mix.mod","icon":"mod","info":"979k"},
-
     {"title":"Ambrozia","url":"demomods/Ambrozia.xm","icon":"xm","info":"979k"},
     {"title":"Aqua","url":"demomods/aws_aqua.xm","icon":"xm","info":"1.2M"},
     {"title":"Aurora","url":"demomods/aurora.mod","icon":"mod","info":"110k"},
