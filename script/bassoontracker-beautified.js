@@ -4707,7 +4707,7 @@ var BassoonTracker = function() {
                 b > n && (b = n), U.width = b, U.height = window.innerHeight, V.fillStyle = "black", V.fillRect(0, 0, U.width, U.height), q.Assets.preLoad(function() {
                     B(), C();
                     var b = c("file");
-                    b = b ? decodeURIComponent(b) : "demomods/Tinytune.mod", da.load(b, !0), "undefined" != typeof versionNumber && S.json("package.json?ts=" + (new Date).getTime(), function(a) {
+                    b = b ? decodeURIComponent(b) : "demomods/jjj/2unlimited_NoLimit_PART__fastmixCUT.mod", da.load(b, !0), "undefined" != typeof versionNumber && S.json("package.json?ts=" + (new Date).getTime(), function(a) {
                         
                     	/*
                         if (a && a.version && a.version !== versionNumber) {
@@ -5450,6 +5450,11 @@ var BassoonTracker = function() {
                 onClick: function() {
                     da.load("demomods/jjj/cultbeat-mr.vain@.mod")        	
                 }
+            }, {
+                label: "2unlimited_NoLimit_PART__fastmixCUT.mod",
+                onClick: function() {
+                    da.load("demomods/jjj/2unlimited_NoLimit_PART__fastmixCUT.mod")
+                }                
             }, {
                 label: "Demomusic",
                 onClick: function() {
